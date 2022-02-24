@@ -1,12 +1,12 @@
 {
-  "name": "jsx-code-challenge",
+  "name": "jsx-practice",
   "version": "1.0.0",
   "description": "",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
-    "react": "16.11.0",
-    "react-dom": "16.11.0"
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
   },
   "devDependencies": {
     "typescript": "3.3.3"
